@@ -1,0 +1,12 @@
+name: cse609-projectdemo
+title: CSE609-ProjectDemo
+username:
+account: divy2926
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 329373
+bundleId: 1336841
+url: https://divy2926.shinyapps.io/cse609-projectdemo/
+when: 1524600840.90365
+asMultiple: FALSE
+asStatic: FALSE
